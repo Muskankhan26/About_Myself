@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming frontend web developer 
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ,my LinkedIn profile (https://www.linkedin.com/in/muskan-khan-b42b3930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_apphttps://www.linkedin.com/in/muskan-khan-b42b3930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 How to reach me ,my LinkedIn profile (https://www.linkedin.com/in/muskan-khan-b42b3930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:i am from humanities background and now im in it sector 
 
